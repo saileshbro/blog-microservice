@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\saileshbro\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\saileshbro\bin;C:\Program Files\git\usr\local\bin;C:\Program Files\git\usr\bin;C:\Program Files\git\usr\bin;C:\Program Files\git\opt\bin;C:\Python38\Scripts;C:\Python38;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\flutter\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\ProgramData\chocolatey\bin;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\150\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\flutter\bin\cache\dart-sdk\bin;C:\Program Files\nodejs;C:\Program Files\dotnet;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\dotnet;C:\Users\saileshbro\AppData\Local\Android\Sdk\tools;C:\Users\saileshbro\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\saileshbro\AppData\Local\Programs\Python\Python39;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\saileshbro\AppData\Local\Microsoft\WindowsApps;C:\Users\saileshbro\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\saileshbro\.dotnet\tools;C:\Users\saileshbro\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Program Files (x86)\GitHub CLI;C:\Users\saileshbro\AppData\Roaming\Composer\vendor\bin;C:\Users\saileshbro\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\heroku\bin;C:\Program Files\Tesseract-OCR;C:\Users\saileshbro\AppData\Roaming\npm;C:\Users\saileshbro\.dotnet\tools;C:\Program Files\Android\Android Studio\jre\jre\bin;C:\Users\saileshbro\AppData\Local\Yarn\bin;C:\Program Files\git\usr\bin\vendor_perl;C:\Program Files\git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  15.0.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\saileshbro\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:136216:13)
+      at Interface.emit (node:events:327:20)
+      at Interface._ttyWrite (node:readline:875:16)
+      at ReadStream.onkeypress (node:readline:213:10)
+      at ReadStream.emit (node:events:327:20)
+      at emitKeys (node:internal/readline/utils:345:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:readline:1144:36)
+      at ReadStream.emit (node:events:327:20)
+      at addChunk (node:internal/streams/readable:304:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
