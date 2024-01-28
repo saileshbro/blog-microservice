@@ -1,4 +1,4 @@
-FROM node:21.2-alpine3.18
+FROM node:21.6-alpine3.18
 ENV CI=true
 WORKDIR /app
 COPY package.json ./
